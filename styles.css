@@ -1,0 +1,32 @@
+body {
+    background-image: url('background.jpg')
+}
+h1 {
+    display: inline-block;
+    background-color: rgba(1,1,1,0.3);
+    padding: 0;
+    color:white;
+    font-size:50px;
+    text-align: center;
+}
+.navigation {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+.navigation li {
+    display: inline-block;
+}
+.navigation li a {
+    font-family: Arial;
+    font-size: 20px;
+    transition: 1s;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    padding: 50px;
+    margin: 30px;
+    background-color: white;
+    width: 110px;
+
+}
