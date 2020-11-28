@@ -1,22 +1,35 @@
-body {
-    background-image: url('background.jpg')
+@font-face {
+    src: url("FONTS/DancingScript-Medium.ttf");
+    font-family: DancingScript;
 }
+
+body {
+    background-image: url('background.jpg');
+    margin: 0;
+}
+
 h1 {
     display: inline-block;
-    background-color: rgba(1,1,1,0.3);
     padding: 0;
-    color:white;
-    font-size:50px;
-    text-align: center;
+    color: white;
+    font-size: 150px;
+    font-family: DancingScript;
+    font-size: 150px;
+    text-shadow: 4px 4px black;
 }
+
 .navigation {
     list-style-type: none;
     text-align: center;
     padding: 0;
+    margin-top: 50px;
+    margin-bottom: 0px;
 }
+
 .navigation li {
     display: inline-block;
 }
+
 .navigation li a {
     font-family: Arial;
     font-size: 20px;
@@ -29,4 +42,67 @@ h1 {
     background-color: white;
     width: 110px;
 
+}
+
+.dress {
+    text-align: center;
+}
+
+.divh1 {
+    text-align: center;
+}
+
+.divDress {
+    margin: 40px;
+    font-size: 50px;
+    border-radius: 30px;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+p {
+    font-size: 15px;
+    margin: 0;
+}
+
+.semi {
+    margin: 0px;
+    padding: 0px;
+}
+
+.Zena {
+    margin: 40px;
+    border-radius: 30px;
+    font-size: 50px;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+.flex {
+    font-family: DancingScript;
+    display: flex;
+}
+
+.divPozd {
+    background-color: rgba(1, 0, 3, 0.7);
+    min-height: 100vh;
+}
+
+.login {
+    font-size: 34px;
+    width: 18px;
+    margin-left: 97%;
+    margin-top: 0.5%;
+    color:white;
+
+}
+
+.galerie {
+    margin-top: 3%;
+    text-align: center;
+}
+.menicko {
+    background: none;
+    background-color: black;
+    text-align: center
 }
