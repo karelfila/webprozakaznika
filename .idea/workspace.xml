@@ -11,9 +11,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ad340d1-f69a-4ede-8708-eaf654116ab7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dist/css/lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/lightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/lightbox-plus-jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/lightbox-plus-jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/lightbox-plus-jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/lightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/lightbox.min.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/Menu.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,15 +69,28 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\IT\Projekty\webprozakaznika\lightbox" />
-      <recent name="E:\IT\Projekty\webprozakaznika\.idea\lightbox" />
-      <recent name="E:\IT\Projekty\webprozakaznika" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IT\Projekty\webprozakaznika" />
       <recent name="E:\IT\Projekty\webprozakaznika\FONTS" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IT\Projekty\webprozakaznika" />
+      <recent name="E:\IT\Projekty\webprozakaznika\lightbox" />
+      <recent name="E:\IT\Projekty\webprozakaznika\.idea\lightbox" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -90,6 +114,8 @@
       <workItem from="1606649117567" duration="787000" />
       <workItem from="1606722126995" duration="607000" />
       <workItem from="1606824450640" duration="524000" />
+      <workItem from="1606825302203" duration="47000" />
+      <workItem from="1606826129117" duration="639000" />
     </task>
     <servers />
   </component>
